@@ -7,8 +7,7 @@
 - Add Sudoku board
 - Add board display function
 - Add validation function
-- Fix validation function edge cases
-- Add backtracking solver
-- Improve solver implementation
+- Add Sudoku solver
+- Improve solver logic
 - Add visualization
-- Add experiment and final results
+- Add experiment and final version

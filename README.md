@@ -1,10 +1,14 @@
 # Sudoku_notebоok
+- Add project structure
+- Add README file
 - Add introduction
-- Add sudoku rules
+- Add Sudoku rules
 - Add mathematical model
-- Add sudoku board
+- Add Sudoku board
+- Add board display function
 - Add validation function
-- Аdd solver
+- Fix validation function edge cases
+- Add backtracking solver
+- Improve solver implementation
 - Add visualization
-- Add experiment
-- Final version
+- Add experiment and final results
